@@ -1,0 +1,86 @@
+[
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetProducts"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetReviews"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetProductById"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetReviewNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetReviewById"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDbAfterPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPostReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterPostReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDbAfterPostReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPutProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDbAfterPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPutReviewNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testPutReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterPutReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDbAfterPutReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDeleteReviewNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDeleteReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterDeleteReview"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDeleteProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testDeleteProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testAfterDeleteProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.NxtTrendzControllerTests.testGetProductByReviewId"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz1.SmokeTest.contextLoads"
+    }
+]
